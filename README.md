@@ -13,3 +13,7 @@ Les ingrédients sont variés : Laitue, roquette, tomate, oignons, agneau, bœuf
 ## Itération 1 (15 min)
 
 Faire des kebabs, chaque kebab doit pouvoir dire s'il est végétarien.
+
+## The example
+the main method is in KebabKata.java
+Kebab.java contain the object Kebab.
