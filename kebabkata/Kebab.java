@@ -5,6 +5,7 @@ one on top one at the bottom.
 It as one method .describe(), that print the layout of the kebab and if
 it is vegetarian or not.
 You can make your own kebab now!
+Please don't get too fat.
  */
 
 package kebabkata;
@@ -16,7 +17,7 @@ import java.util.Random;
 public class Kebab {
     private String ingredients[]={"salad","onion","steak","soy-steacK",
                                     "tuna","lamb","cheese","pickels",
-				  "tomatoe"};
+				  "dry tomatoe", "fresh tomatoe"};
     private int layers; // number of layers of the kebab.
     private int randLayer; // to pick an ingredient randomly in the array.
     Random randNb=new Random();
