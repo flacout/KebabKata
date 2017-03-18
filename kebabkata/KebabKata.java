@@ -1,5 +1,6 @@
 /*
 Test the class Kebab by asking repeteadly a customer for making a new kebab.
+The kebak contain 20 ingredients max.
  */
 package kebabkata;
 
