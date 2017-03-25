@@ -5,7 +5,7 @@ one on top one at the bottom.
 It as one method .describe(), that print the layout of the kebab and if
 it is vegetarian or not.
 You can make your own kebab now!
-Please don't get too fat.
+Please don't get too fat, two kebab max.
  */
 
 package kebabkata;
